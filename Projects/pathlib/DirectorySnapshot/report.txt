@@ -1,0 +1,7 @@
+test_folder\sub_1,0,2025-03-05 21:03:32.606053
+test_folder\sub_2,0,2025-03-05 21:03:42.785284
+test_folder\test.txt,28,2025-03-05 21:04:44.706446
+test_folder\sub_1\sub_1_sub_1,0,2025-03-05 21:04:44.706446
+test_folder\sub_1\sub_1_sub_2,0,2025-03-05 21:03:32.606053
+test_folder\sub_2\sub_2_sub_1,0,2025-03-05 21:03:42.785284
+test_folder\sub_1\sub_1_sub_1\test.txt,28,2025-03-05 21:04:44.706446
