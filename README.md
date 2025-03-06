@@ -3,4 +3,6 @@
 
 Place to store my learning process... or lack there of.
 
-Some previous things are missing because until now there was no real structure.
+This were missing in other repository as I changed and overwrote stuff. 
+
+Started from scratch and will redo some basic assignments to have some structure.
