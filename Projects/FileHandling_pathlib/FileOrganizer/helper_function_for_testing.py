@@ -29,7 +29,7 @@ paths = []
 
 for folder in folders:
     for name in words:
-        test = path / folder / f"{name}{ext[random.randrange(14)]}"
+        test = path / folder / f"{name}{ext[random.randrange(len(ext)]}"
         paths.append(test)
 
 for path in paths:
