@@ -13,8 +13,7 @@ print(addition(5, 5))
 
 
 def avc(a: int) -> str:
+    print("This will print")
     return a % 2 == 0
 
-print(avc("str"))
-
-
+print(avc("str"))   # This will raise a TypeError, though not because of hinting.
