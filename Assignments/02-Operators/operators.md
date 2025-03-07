@@ -5,7 +5,7 @@ Arithmetic Operators
 - '*'  for multiplication:  10 * 3 = 30
 - '/'  for division: 10 / 3 = 3.<span style="text-decoration:overline">3</span>
 - '%' for modulo: 10 % 3 = 1 (Remainder)
-- '**' for exponents ie. 10<sup>3</sup> = 1000
+- '**' for exponents: 10<sup>3</sup> = 1000
 - '//' for floor division 10 // 3 = 3
 
 Ceiling division can be done via math library or negative floor conversion.
@@ -40,4 +40,3 @@ Membership and Identity Operators
 - 'not in' a not in b returns True if the sequence is not found in object b
 - 'is' a is b returns True if a and b are the same object
 - 'is not' a is not b returns True if a and b are not the same object.
-

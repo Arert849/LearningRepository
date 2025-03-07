@@ -1,9 +1,10 @@
-Conditionals use logical and comparison operators. Remember about all() and any(), they're useful.
-Loops can also have 'else' statements. They activate when the loop doesn't 'break' and iterates to completion.
+Conditionals use logical and comparison operators. any() and all() apply to iterable objects
 
-    for i in range(3):
-        print(i)
-    else:
-        print("Will print once the loop iterates to completion")
+    test_list = [True, False, False, True]
+    if any(test_list):
+        print("Will print as some values are True")
+    
+    if all(test_list):
+        print("Will not print as not all values are True")
 
 Don't really know what else to type here...
