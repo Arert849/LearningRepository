@@ -48,3 +48,5 @@ unexpected errors.
 
 Let's say the file does not exist, this will print out:
 "Unexpected ERROR: (FileNotFound) [Errno 2] No such file or directory: 'filename'"
+
+add example of else and finally statements

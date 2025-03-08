@@ -1,5 +1,5 @@
 
-a, b, c, d = True, False
+a, b = True, False
 
 if a:
     print("a", a)

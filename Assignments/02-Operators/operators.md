@@ -40,3 +40,7 @@ Membership and Identity Operators
 - 'not in' a not in b returns True if the sequence is not found in object b
 - 'is' a is b returns True if a and b are the same object
 - 'is not' a is not b returns True if a and b are not the same object.
+
+
+Need to add a section on precedence and associativity.
+A section on bitwise operators too.
